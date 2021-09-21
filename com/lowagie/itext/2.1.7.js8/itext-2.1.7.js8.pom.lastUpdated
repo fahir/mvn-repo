@@ -1,10 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 21 08:03:47 GMT 2021
-@default-my-repo-bucket-release-https\://gitlab.com/fahir/mvn-repo/.lastUpdated=1632211426491
-@default-jaspersoft-third-party-http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.lastUpdated=1632211426888
-https\://repo.maven.apache.org/maven2/.lastUpdated=1632210224272
-@default-jr-ce-releases-http\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases/.lastUpdated=1632211427186
-http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7.js8 from/to jaspersoft-third-party (http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/)\: Failed to transfer file\: http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/com/lowagie/itext/2.1.7.js8/itext-2.1.7.js8.pom. Return code is\: 308 , ReasonPhrase\:Permanent Redirect.
-http\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7.js8 from/to jr-ce-releases (http\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases)\: Failed to transfer file\: http\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases/com/lowagie/itext/2.1.7.js8/itext-2.1.7.js8.pom. Return code is\: 308 , ReasonPhrase\:Permanent Redirect.
-https\://gitlab.com/fahir/mvn-repo/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7.js8 from/to my-repo-bucket-release (https\://gitlab.com/fahir/mvn-repo)\: Failed to transfer file\: https\://gitlab.com/fahir/mvn-repo/com/lowagie/itext/2.1.7.js8/itext-2.1.7.js8.pom. Return code is\: 503 , ReasonPhrase\:Service Temporarily Unavailable.
+#Wed Jul 14 11:53:02 GMT 2021
+http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.lastUpdated=1621877328668
+https\://repo.maven.apache.org/maven2/.lastUpdated=1626263582273
+http\://0.0.0.0/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7.js8 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [jaspersoft-third-party (http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/, default, releases+snapshots), jr-ce-releases (http\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1626263582276
+https\://storage.googleapis.com/idenfit_repo/.error=
 https\://repo.maven.apache.org/maven2/.error=
+https\://storage.googleapis.com/idenfit_repo/.lastUpdated=1626263582211
